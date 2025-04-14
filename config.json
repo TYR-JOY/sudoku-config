@@ -1,5 +1,5 @@
 {
-    "playMode": 1,  // 修改为1可直接打开网页
+    "playMode": 0,  // 修改为1可直接打开网页
     "version": 1,
     "lastUpdated": "2023-05-20"
 }
